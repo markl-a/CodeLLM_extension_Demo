@@ -6,4 +6,4 @@
 
 1. VsCode or Chrome Open Source LLM 插件
 
-2. 類 Open Devin 程式碼解讀
+2. 類 Open Devin 項目程式碼解讀
